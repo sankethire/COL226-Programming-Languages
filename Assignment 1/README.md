@@ -4,7 +4,7 @@ In this assignment, you will model the "abstract syntax" of a simple calculator 
 
 The abstract syntax is characterised by the type
 ```
-type  exptree =  N of int 
+type  exptree =            N of int 
 
                         |  Plus of exptree *  exptree 
 
