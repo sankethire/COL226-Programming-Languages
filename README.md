@@ -1,5 +1,5 @@
 # COL226-Programming-Languages
-![Ocaml camel](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwj5zsa_6p_hAhWJbisKHSw5DUQQjRx6BAgBEAU&url=http%3A%2F%2Fwww.ocaml.org%2Fcommunity%2F&psig=AOvVaw00zD31AEYozsdnEqgElMqI&ust=1553690518198837)
+![colour-logo](https://user-images.githubusercontent.com/26035692/54998141-60ba9a80-4ff3-11e9-89fc-243b8913762c.png)
 
 #### Assignment 0: A Bigint package
 #### Assignment 1: A simple definitional interpreter and stack machine
