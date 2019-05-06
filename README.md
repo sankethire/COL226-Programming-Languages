@@ -5,3 +5,4 @@
 #### Assignment 1: A simple definitional interpreter and stack machine
 #### Assignment 2: Building a scanner using OCaml-Lex
 #### Assignment 3: Parsing for a simple expression evaluator
+#### Assignment 5: CBV and CBN Interpreters for a tiny functional language
